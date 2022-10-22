@@ -1,3 +1,21 @@
+
+@font-face {
+  font-family: "Britanica-Black";
+  src: url("./assests/fonts/Britanica-Black.ttf");
+}
+
+@font-face {
+  font-family: "Britanica-RegularCondensed";
+  src: url("./assests/fonts/Britanica-RegularCondensed.ttf");
+}
+
+@font-face {
+  font-family: "Diversa";
+  src: url("./assests/fonts/Diversa W03 Regular.ttf");
+}
+
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
